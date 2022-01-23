@@ -8,7 +8,7 @@ The reason for this project's existence is that it is prohibitively difficult to
 Currently the program extracts videos from a database of all S tier tournaments matches uploaded to Youtube since 2019 and as of January 23rd, 2022. For a list of S tier tournaments, consult this website: https://en.wikipedia.org/wiki/List_of_major_Super_Smash_Bros._Ultimate_tournaments
 
 Instructions for use:
-1. Compile and run VideoCompiler.java. This will open the main window where you can query for tournament matches containing a character. Capitalization and spaces matter when searching.
+1. Compile and run VideoCompiler.java within SmashVODsFinder/src/VideoFinder/.  This will open the main window where you can query for tournament matches containing a character. Capitalization and spaces matter when searching.
 2. An output window will open with the matching tournament sets. To open the video of a match in your browser, simply click on the cell containing the URL of the desired match.
 3. The program supports closing the output window and entering another query.
 
