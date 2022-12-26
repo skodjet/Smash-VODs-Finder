@@ -17,3 +17,4 @@ Planned Upcoming Features:
 1. Ability to search and filter by tournament, player, and multiple characters.
 2. Cleaner and better looking UI.
 3. More information regarding each video such as tournament stage and date.
+4. Integration of JDBC and an SQL database.
