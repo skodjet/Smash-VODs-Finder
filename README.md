@@ -17,11 +17,14 @@ Instructions for use:
 3. The program supports closing the output window and entering another query.
 
 
-
-
-
 Planned Upcoming Features:
 1. Ability to search and filter by tournament, player, and multiple characters.
 2. Cleaner and better looking UI.
 3. More information regarding each video such as tournament stage and date.
 4. Integration of JDBC and an SQL database.
+
+
+Code Credit:
+download.java is a modification of GeeksForGeeks' "download a webpage using java". (https://www.geeksforgeeks.org/download-web-page-using-java/)
+
+Thank you to Dr. El-Sayed for her JDBC template from CS377 at Emory University!
